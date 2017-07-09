@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name" translatable="false">TimeSince</string>
+    <string name="WelcomeMsg">Por favor, selecciona un idioma</string>
+    <string name="nextBtn">Continuar</string>
+    <string name="En" translatable="false">English</string>
+    <string name="ES" translatable="false">Español</string>
+    <string name="esK">ñ</string>
+    <string name="timeSelectLabel">Seleccionar rango de fechas</string>
+    <string name="fechaInitHint">Seleccionar fecha de inicio</string>
+    <string name="initDateLabelTxt">Fecha de Inicio</string>
+    <string name="FinDateLabelTxt">Fecha de Fin</string>
+    <string name="fechaFinHint">Seleccionar fecha de fin</string>
+    <string name="Hora">Hora</string>
+    <string name="hora">hora</string>
+    <string name="año">año</string>
+    <string name="minuto">minuto</string>
+    <string name="mes">mes</string>
+    <string name="dia">dia</string>
+    <string name="segundo">segundo</string>
+    <string name="Mostrar">Mostrar</string>
+    <string name="FechaEndHint">Inicio</string>
+    <string name="mesPlural">meses</string>
+    <string name="yearPlural">años</string>
+    <string name="diasPlural">días</string>
+    <string name="horaPlural">horas</string>
+    <string name="minutoPlural">minutos</string>
+    <string name="horaInit">Hora de Inicio</string>
+    <string name="horaFin">Hora de fin</string>
+    <string name="ahora">Ahora</string>
+
+</resources>

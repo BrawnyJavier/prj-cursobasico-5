@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="WelcomeMsg">Please, select a languaje</string>
+    <string name="nextBtn">Next</string>
+    <string name="esK">En</string>
+    <string name="timeSelectLabel">Select Date Range</string>
+    <string name="fechaInitHint">Select initial Date</string>
+    <string name="initDateLabelTxt">Start Date</string>
+    <string name="FinDateLabelTxt">End Date</string>
+    <string name="fechaFinHint">Select End Date</string>
+    <string name="Hora">Time</string>
+    <string name="FechaEndHint">Start</string>
+    <string name="minuto">minute</string>
+    <string name="mes">month</string>
+    <string name="segundo">second</string>
+    <string name="dia">day</string>
+    <string name="año">year</string>
+    <string name="hora">hour</string>
+    <string name="Mostrar">Show</string>
+    <string name="mesPlural">months</string>
+    <string name="yearPlural">years</string>
+    <string name="diasPlural">days</string>
+    <string name="horaPlural">hours</string>
+    <string name="minutoPlural">minutes</string>
+    <string name="horaInit">Start time</string>
+    <string name="horaFin">End time</string>
+    <string name="ahora">Now</string>
+</resources>
